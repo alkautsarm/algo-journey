@@ -13,7 +13,7 @@ This repository documents my progress solving LeetCode problems. Each solution i
 
 ```
 algo-journey/
-├── category-name/          # e.g., arrays, strings, dynamic-programming
+├── category-name/         # e.g., arrays, strings, dynamic-programming
 │   ├── problem-name.js    # Each quiz inside its category folder
 │   └── ...
 └── README.md
